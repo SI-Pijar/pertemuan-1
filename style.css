@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #dacbcb;
+    text-align: justify;
+}
+
+#main-header{
+    background-color: #dacbcb;
+    padding: 18px;
+}
+
+.title{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+label{
+    font-weight: bold;
+}
+
+.cotainer{
+    margin: 12px;
+    background-color: #ffffff;
+    align-items: center;
+}
+
+#form-kehadiran{
+    align-items: center ;
+    background-color: #ffffff;
+}
+
+#btn-submit{
+    color: rgb(0, 0, 0);
+}
